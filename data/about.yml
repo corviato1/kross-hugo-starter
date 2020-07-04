@@ -25,9 +25,9 @@ team:
   - title: Joaquin Phoenix
     image: "/images/joaquin-phoenix-cast-pic.png"
     designation: Emperor Commodus
-  - title: ''
-    image: ''
-    designation: ''
+  - title: Connie Nielsen
+    image: "/images/connie-nielsen-cast-pic.png"
+    designation: Annia Aurelia Galeria Lucilla
 clients_logo_slider:
   enable: true
   title: My Clients
