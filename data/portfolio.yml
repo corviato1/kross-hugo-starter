@@ -25,7 +25,7 @@ item:
   category:
   - Comedy
 - image: "/images/ipfs-link-the-raid.png"
-  project_url: ''
+  project_url: https://ipfs.infura.io/ipfs/QmfLinecT5TkvAgxJxqeoJjGgJWb65sEX4ahY7JSDxoKAn
   category:
   - Other
 - image: "/images/ipfs-link-street-fighter.png"
