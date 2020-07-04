@@ -19,7 +19,7 @@ about:
 '
   button:
     enable: true
-    label: know more
+    label: Watch Now
     URL: about
 skill:
   enable: true
