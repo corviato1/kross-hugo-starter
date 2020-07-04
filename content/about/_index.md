@@ -58,4 +58,4 @@ Thank you for reading my parable breakdown of the first 5 minutes of the film Gl
 
 \*It should be noted that of the many diverse Roman soldiers shown(within the first five minutes), only S.C.Maximus and two of the Emperor’s guards were wearing animal skins over the armor. This in itself is very interesting and could make for a great topic of discussion.
 
-            [**https://ipfs.io/#how                                           **](https://ipfs.io/#how)[**https://ipfs.io/#why**](https://ipfs.io/#why)
+            [**https://ipfs.io/#how**]()                                           **https://ipfs.io/#why**
