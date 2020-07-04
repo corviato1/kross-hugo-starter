@@ -16,18 +16,19 @@ URL = "portfolio"
 name = "Portfolio"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+address = "Floating in the ether of Web3"
+author = "IPFS"
+copyright = "https://ipfs.infura.io/ipfs/QmYPTbT6Q1aVCsekE8ZzfjJu9h9gjd4oTswHLJ6JBAyfku"
+description = "Thank you for your time"
+email = "mikenewton.eth"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
-theme_color = "#41228e"
+phone = "1 (714) 777 3456"
+social = []
+theme_color = "#a82011"
 [params.contact]
-enable = true
+enable = false
 form_action = "#"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
@@ -46,15 +47,3 @@ URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
 preloader = ""
-[[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
