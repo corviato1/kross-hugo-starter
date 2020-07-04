@@ -4,13 +4,21 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
+URL = "contact"
+name = "Contact"
+weight = 4
 [[menu.main]]
 URL = "portfolio"
 name = "IPFS MEDIA"
-weight = 4
+weight = 3
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [params]
 address = "Floating in the ether of Web3"
 author = "“Give me Web3 or give me Death” - Mike"
