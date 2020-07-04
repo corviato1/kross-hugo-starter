@@ -10,7 +10,7 @@ author_signature: "/images/ipfsens.png"
 
 After a historical backdrop in text finishes, the scene opens to Supreme Commander Maximus Decimus Meridius(referred to as S.C.Maximus), the great general of the last Good Emperor of Rome. He stands reminiscing, allowing himself tranquility and happiness, then suddenly is brought back to reality. S.C.Maximus stands surveying the tactically terraformed battlefield just prior to the crushing defeat of the last German stronghold free from Roman Rule. Within short seconds from the start of this film, the first parable is presented. It teaches:
 
-\- A great leader needs to be grounded while appreciating things of a higher plain.  This is shown via strong visual metaphors: S.C.Maximus hand in the wheat field, and his smiling gaze at the bird in flight.
+\- A great leader needs to be grounded and appreciate things of a higher plain.  This is shown via strong visual metaphors: S.C.Maximus hand in the wheat field, and his smiling gaze at the bird in flight.
 
 \- There is a time and place for everything, which is shown via his rapid shift from dream to reality.  Another example of this is when S.C.Maximus is woken by his second in command a few minutes later in the film.
 
