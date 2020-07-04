@@ -1,25 +1,33 @@
 ---
 item:
-- image: "/images/ipfs-link-timecop.png"
-  project_url: https://ipfs.infura.io/ipfs/QmakpbKWbUncrW5PFc5Z4ZrXjhqt2LDH8RJMa2F9yfi8MK
-  category:
-  - Other
-- image: "/images/ipfs-link-pootie-tang.png"
-  project_url: https://ipfs.infura.io/ipfs/Qmdyb3gHpm1Q2mrniqGg3J6rUtoD6brf9ujvFAds1J7c3N
-  category:
-  - Comedy
-- image: "/images/ipfs-link-a-knights-tale.png"
-  project_url: https://ipfs.infura.io/ipfs/QmYC2WKpNNowAqYhkWCQvcp7NFUgP1ApEqSDRRbnzKSNFZ
-  category:
-  - History(ish)
 - image: "/images/ipfs-link-harley-quinn.png"
   project_url: https://ipfs.infura.io/ipfs/QmXts9UbbxkPpXYmB9C1QTAoXdZZKcenwAAGtu2S3sspfm
   category:
   - Other
+- image: "/images/ipfs-link-timecop.png"
+  project_url: https://ipfs.infura.io/ipfs/QmakpbKWbUncrW5PFc5Z4ZrXjhqt2LDH8RJMa2F9yfi8MK
+  category:
+  - Other
+- image: "/images/ipfs-link-a-knights-tale.png"
+  project_url: https://ipfs.infura.io/ipfs/QmYC2WKpNNowAqYhkWCQvcp7NFUgP1ApEqSDRRbnzKSNFZ
+  category:
+  - History(ish)
 - image: "/images/ipfs-link-dude-wheres-my-car.png"
   project_url: "#https://ipfs.infura.io/ipfs/QmfLinecT5TkvAgxJxqeoJjGgJWb65sEX4ahY7JSDxoKAn"
   category:
   - Comedy
+- image: "/images/ipfs-link-pootie-tang.png"
+  project_url: https://ipfs.infura.io/ipfs/Qmdyb3gHpm1Q2mrniqGg3J6rUtoD6brf9ujvFAds1J7c3N
+  category:
+  - Comedy
+- image: "/images/ipfs-link-rick-and-morty.png"
+  project_url: https://ipfs.infura.io/ipfs/QmVgs5eSiPrg4qk5d98auWQGr1z5Uen9ZbBAdMkhLCQAgC
+  category:
+  - Comedy
+- image: "/images/ipfs-link-the-big-short.png"
+  project_url: https://ipfs.infura.io/ipfs/QmSxZzNF6Dt3jfS9Y2BXSjWBkhTpBfThaHMq5CEbnVzsoE
+  category:
+  - History(ish)
 - image: "/images/ipfs-link-mr-peabody-and-sherman.png"
   project_url: https://ipfs.infura.io/ipfs/QmaF9tLZQrqbkfSum5FEnEBLyEMsi1xBY3g42tCXqQyMGy
   category:
@@ -36,18 +44,10 @@ item:
   project_url: "#https://ipfs.infura.io/ipfs/QmTyCHftywwz89bmrT2s7KJKBjM2ivxhMQWi37aaaK3G25"
   category:
   - Comedy
-- image: "/images/ipfs-link-the-big-short.png"
-  project_url: https://ipfs.infura.io/ipfs/QmSxZzNF6Dt3jfS9Y2BXSjWBkhTpBfThaHMq5CEbnVzsoE
-  category:
-  - History(ish)
 - image: "/images/ipfs-link-the-raid.png"
   project_url: "#https://ipfs.infura.io/ipfs/QmfLinecT5TkvAgxJxqeoJjGgJWb65sEX4ahY7JSDxoKAn"
   category:
   - Other
-- image: "/images/ipfs-link-rick-and-morty.png"
-  project_url: https://ipfs.infura.io/ipfs/QmVgs5eSiPrg4qk5d98auWQGr1z5Uen9ZbBAdMkhLCQAgC
-  category:
-  - Comedy
 clients_logo_slider:
   enable: false
   title: My Clients
