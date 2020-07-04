@@ -45,6 +45,10 @@ experience:
     title: Filecoin
     company: https://filecoin.io/
     duration: "2020"
+  - logo: "/images/rvn.png"
+    title: Ravencoin
+    company: https://ravenland.org/
+    duration: "2018"
   - logo: "/images/eth.png"
     title: Ethereum
     company: https://ethereum.org/en/
@@ -53,10 +57,6 @@ experience:
     title: Flo
     company: https://flo.cash/
     duration: "2013"
-  - logo: "/images/rvn.png"
-    title: Ravencoin
-    company: https://ravenland.org/
-    duration: "2018"
   - logo: "/images/btc.png"
     title: Bitcoin
     company: https://www.lopp.net/bitcoin-information.html
