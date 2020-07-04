@@ -1,6 +1,6 @@
 ---
 work_process:
-  enable: true
+  enable: false
   title: Work Process
   item:
   - title: Research and Plan
@@ -29,6 +29,6 @@ team:
     image: "/images/connie-nielsen-cast-pic.png"
     designation: Annia Aurelia Galeria Lucilla
 clients_logo_slider:
-  enable: true
+  enable: false
   title: My Clients
   item: []
