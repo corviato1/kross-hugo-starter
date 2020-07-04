@@ -49,5 +49,5 @@ item:
   category:
   - History(ish)
 clients_logo_slider:
-  enable: false
+  enable: true
   title: My Clients
