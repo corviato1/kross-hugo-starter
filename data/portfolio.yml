@@ -2,8 +2,7 @@
 item:
 - image: "/images/ipfs-link-harley-quinn.png"
   project_url: https://ipfs.infura.io/ipfs/QmXts9UbbxkPpXYmB9C1QTAoXdZZKcenwAAGtu2S3sspfm
-  category:
-  - Other
+  category: ''
 - image: "/images/ipfs-link-timecop.png"
   project_url: https://ipfs.infura.io/ipfs/QmakpbKWbUncrW5PFc5Z4ZrXjhqt2LDH8RJMa2F9yfi8MK
   category:
