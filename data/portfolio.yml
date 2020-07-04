@@ -1,5 +1,9 @@
 ---
 item:
+- image: "/images/ipfs-link-a-knights-tale.png"
+  project_url: https://ipfs.infura.io/ipfs/QmYC2WKpNNowAqYhkWCQvcp7NFUgP1ApEqSDRRbnzKSNFZ
+  category:
+  - History(ish)
 - image: "/images/ipfs-link-harley-quinn.png"
   project_url: https://ipfs.infura.io/ipfs/QmXts9UbbxkPpXYmB9C1QTAoXdZZKcenwAAGtu2S3sspfm
   category:
