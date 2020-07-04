@@ -31,6 +31,4 @@ team:
 clients_logo_slider:
   enable: true
   title: My Clients
-  item:
-  - logo: "/images/configuration-params-logo.png"
-    URL: https://ipfs.infura.io/ipfs/Qmdyb3gHpm1Q2mrniqGg3J6rUtoD6brf9ujvFAds1J7c3N
+  item: []
