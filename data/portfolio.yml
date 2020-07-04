@@ -4,9 +4,10 @@ item:
   project_url: https://ipfs.infura.io/ipfs/QmXts9UbbxkPpXYmB9C1QTAoXdZZKcenwAAGtu2S3sspfm
   category:
   - Other
-- image: images/portfolio/item-2.png
-  project_url: "#"
-  category: branding
+- image: "/images/ipfs-link-dude-wheres-my-car.png"
+  project_url: "#https://ipfs.infura.io/ipfs/QmfLinecT5TkvAgxJxqeoJjGgJWb65sEX4ahY7JSDxoKAn"
+  category:
+  - Comedy
 - image: images/portfolio/item-3.png
   project_url: http://examplesite.com
   category: illustration
