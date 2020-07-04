@@ -8,9 +8,10 @@ item:
   project_url: "#https://ipfs.infura.io/ipfs/QmfLinecT5TkvAgxJxqeoJjGgJWb65sEX4ahY7JSDxoKAn"
   category:
   - Comedy
-- image: images/portfolio/item-3.png
-  project_url: http://examplesite.com
-  category: illustration
+- image: "/images/ipfs-link-mr-peabody-and-sherman.png"
+  project_url: https://ipfs.infura.io/ipfs/QmaF9tLZQrqbkfSum5FEnEBLyEMsi1xBY3g42tCXqQyMGy
+  category:
+  - History(ish)
 - image: images/portfolio/item-5.png
   project_url: "#"
   category: design
