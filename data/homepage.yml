@@ -43,7 +43,7 @@ experience:
   item:
   - logo: "/images/fil.png"
     title: Filecoin
-    company: ''
+    company: https://filecoin.io/
     duration: "2020"
   - logo: "/images/rvn.png"
     title: Ravencoin
