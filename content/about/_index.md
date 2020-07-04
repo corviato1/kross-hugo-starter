@@ -8,11 +8,11 @@ author_signature: "/images/ipfsens.png"
 ---
 **Below are breakdowns of parables/lessons that I learned from childhood within the first five minutes of the film Gladiator:**
 
-After a historical backdrop in text finishes, the scene opens to Supreme Commander Maximus Decimus Meridius(referred to as S.C.Maximus), the great general of the last Good Emperor of Rome. He stands reminiscing of a location that brings him tranquility and happiness and is quickly brought back to reality. He stands surveying the tactically terraformed battlefield just prior to the crushing defeat of the last German stronghold free from Roman Rule. This is the first parable. It teaches:
+After a historical backdrop in text finishes, the scene opens to Supreme Commander Maximus Decimus Meridius(referred to as S.C.Maximus), the great general of the last Good Emperor of Rome. He stands reminiscing, allowing himself tranquility and happiness, then suddenly is brought back to reality. S.C.Maximus stands surveying the tactically terraformed battlefield just prior to the crushing defeat of the last German stronghold free from Roman Rule. Within short seconds from the start of this film, the first parable is presented. It teaches:
 
-\- A great leader needs to be grounded
+\- A great leader needs to be grounded while appreciating things of a higher plain.  This is shown via strong visual metaphors: S.C.Maximus hand in the wheat field, and his smiling gaze at the bird in flight. 
 
-\- There is a time and place for everything
+\- There is a time and place for everything, which is shown via his rapid shift from dream to reality.  Another example of this is when S.C.Maximus is woken by his second in command a few minutes later in the film.
 
 \- Men fight the strongest when there is something to fight for, which in S.C.Maximus’s case was conquering the enemy so that he may be released from service and carry out the rest of the days with his wife and son.
 
