@@ -40,7 +40,7 @@ item:
   project_url: https://ipfs.infura.io/ipfs/QmSyvK42wR417R5HCfEhgUZg67cGPuvfBeTeUVCexbLYwR
   category:
   - Other
-- image: ''
+- image: "/images/ipfs-link-street-fighter.png"
   project_url: "#https://ipfs.infura.io/ipfs/QmTyCHftywwz89bmrT2s7KJKBjM2ivxhMQWi37aaaK3G25"
   category:
   - Comedy
