@@ -2,7 +2,7 @@
 item:
 - project_url: https://ipfs.infura.io/ipfs/QmVgs5eSiPrg4qk5d98auWQGr1z5Uen9ZbBAdMkhLCQAgC
   category: ''
-  image: "/images/ipfs-link-rick-and-morty.png"
+  image: images/ipfs-link-rick-and-morty.png
 clients_logo_slider:
   enable: false
   title: My Clients
