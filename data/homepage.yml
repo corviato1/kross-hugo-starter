@@ -41,10 +41,10 @@ experience:
   enable: true
   title: Cryptographically secured public ledgers that I enjoy playing with
   item:
-  - logo: ''
-    title: ''
+  - logo: "/images/rvn.png"
+    title: Ravencoin
     company: ''
-    duration: ''
+    duration: "2018"
   - logo: "/images/eth.png"
     title: Ethereum
     company: ''
