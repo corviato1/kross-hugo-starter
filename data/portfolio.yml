@@ -1,5 +1,9 @@
 ---
 item:
+- image: "/images/ipfs-link-pootie-tang.png"
+  project_url: https://ipfs.infura.io/ipfs/Qmdyb3gHpm1Q2mrniqGg3J6rUtoD6brf9ujvFAds1J7c3N
+  category:
+  - Comedy
 - image: "/images/ipfs-link-a-knights-tale.png"
   project_url: https://ipfs.infura.io/ipfs/QmYC2WKpNNowAqYhkWCQvcp7NFUgP1ApEqSDRRbnzKSNFZ
   category:
