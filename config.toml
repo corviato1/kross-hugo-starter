@@ -13,7 +13,7 @@ name = "Blog"
 weight = 3
 [[menu.main]]
 URL = "portfolio"
-name = "Portfolio"
+name = "IPFS MEDIA"
 weight = 4
 [params]
 address = "Floating in the ether of Web3"
