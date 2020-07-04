@@ -41,7 +41,11 @@ experience:
   enable: true
   title: Cryptographically secured public ledgers that I enjoy playing with
   item:
-  - logo: eth.png
+  - logo: ''
+    title: ''
+    company: ''
+    duration: ''
+  - logo: "/images/eth.png"
     title: Ethereum
     company: ''
     duration: "2015"
