@@ -20,12 +20,14 @@ item:
   project_url: https://ipfs.infura.io/ipfs/QmSyvK42wR417R5HCfEhgUZg67cGPuvfBeTeUVCexbLYwR
   category:
   - Other
-- image: images/portfolio/item-6.png
-  project_url: "#"
-  category: design
-- image: images/portfolio/item-1.png
-  project_url: http://examplesite.com
-  category: branding
+- image: "/images/ipfs-link-street-fighter.png"
+  project_url: "#https://ipfs.infura.io/ipfs/QmTyCHftywwz89bmrT2s7KJKBjM2ivxhMQWi37aaaK3G25"
+  category:
+  - Comedy
+- image: "/images/ipfs-link-the-big-short.png"
+  project_url: https://ipfs.infura.io/ipfs/QmSxZzNF6Dt3jfS9Y2BXSjWBkhTpBfThaHMq5CEbnVzsoE
+  category:
+  - History(ish)
 - image: images/portfolio/item-3.png
   project_url: "#"
   category: illustration
