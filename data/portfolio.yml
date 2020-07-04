@@ -16,9 +16,10 @@ item:
   project_url: "#https://ipfs.infura.io/ipfs/QmRDV1JScorQwWxYooYuk4cTYU7sRAvguZHH3hGYJrRjJp"
   category:
   - History(ish)
-- image: images/portfolio/item-8.png
-  project_url: http://examplesite.com
-  category: illustration
+- image: "/images/ipfs-link-slc-punk.png"
+  project_url: https://ipfs.infura.io/ipfs/QmSyvK42wR417R5HCfEhgUZg67cGPuvfBeTeUVCexbLYwR
+  category:
+  - Other
 - image: images/portfolio/item-6.png
   project_url: "#"
   category: design
