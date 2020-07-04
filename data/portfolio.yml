@@ -28,9 +28,10 @@ item:
   project_url: https://ipfs.infura.io/ipfs/QmSxZzNF6Dt3jfS9Y2BXSjWBkhTpBfThaHMq5CEbnVzsoE
   category:
   - History(ish)
-- image: images/portfolio/item-3.png
-  project_url: "#"
-  category: illustration
+- image: "/images/ipfs-link-the-raid.png"
+  project_url: "#https://ipfs.infura.io/ipfs/QmfLinecT5TkvAgxJxqeoJjGgJWb65sEX4ahY7JSDxoKAn"
+  category:
+  - Other
 - image: images/portfolio/item-7.png
   project_url: http://examplesite.com
   category: branding
