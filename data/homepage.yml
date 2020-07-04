@@ -55,10 +55,10 @@ experience:
     duration: Sep 2014 - Present
 education:
   enable: true
-  title: Cryptographically secured public ledgers that I enjoy playing with.
+  title: ''
   item:
-  - title: Marters in UX Design
-    year: "2006"
+  - title: Ravencoin
+    year: "2018"
     academy: Masassusets Institute of Technology
   - title: Honours in Fine Arts
     year: "2004"
