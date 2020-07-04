@@ -41,6 +41,10 @@ experience:
   enable: true
   title: Cryptographically secured public ledgers that I enjoy playing with
   item:
+  - logo: "/images/flo.png"
+    title: Flo
+    company: ''
+    duration: "2013"
   - logo: "/images/btc.png"
     title: Bitcoin
     company: ''
