@@ -1,8 +1,9 @@
 ---
 item:
-- image: images/portfolio/item-1.png
-  project_url: http://examplesite.com
-  category: design
+- image: "/images/ipfs-link-harley-quinn.png"
+  project_url: https://ipfs.infura.io/ipfs/QmXts9UbbxkPpXYmB9C1QTAoXdZZKcenwAAGtu2S3sspfm
+  category:
+  - Other
 - image: images/portfolio/item-2.png
   project_url: "#"
   category: branding
