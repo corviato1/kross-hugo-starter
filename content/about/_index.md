@@ -57,3 +57,5 @@ Thank you for reading my parable breakdown of the first 5 minutes of the film Gl
 \*May write out all the parables I observed in this film, then break them down, throw up some paywalls utilizing micropayments as a proof of concept. Perhaps something like $0.0002 per parable.
 
 \*It should be noted that of the many diverse Roman soldiers shown(within the first five minutes), only S.C.Maximus and two of the Emperor’s guards were wearing animal skins over the armor. This in itself is very interesting and could make for a great topic of discussion.
+
+            [**https://ipfs.io/#how                                           **](https://ipfs.io/#how "https://ipfs.io/#how")[**https://ipfs.io/#why**](https://ipfs.io/#why "https://ipfs.io/#why")
