@@ -51,15 +51,15 @@ experience:
     duration: "2018"
   - logo: "/images/eth.png"
     title: Ethereum
-    company: ''
+    company: https://ethereum.org/en/
     duration: "2015"
   - logo: "/images/flo.png"
     title: Flo
-    company: ''
+    company: https://flo.cash/
     duration: "2013"
   - logo: "/images/btc.png"
     title: Bitcoin
-    company: ''
+    company: https://www.lopp.net/bitcoin-information.html
     duration: "2009"
 education:
   enable: false
