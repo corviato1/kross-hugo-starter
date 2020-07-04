@@ -41,6 +41,10 @@ experience:
   enable: true
   title: Cryptographically secured public ledgers that I enjoy playing with
   item:
+  - logo: "/images/fil.png"
+    title: Filecoin
+    company: ''
+    duration: "2020"
   - logo: "/images/rvn.png"
     title: Ravencoin
     company: ''
