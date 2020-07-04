@@ -2,8 +2,7 @@
 item:
 - image: "/images/ipfs-link-dude-wheres-my-car.png"
   project_url: "#https://ipfs.infura.io/ipfs/QmfLinecT5TkvAgxJxqeoJjGgJWb65sEX4ahY7JSDxoKAn"
-  category:
-  - Comedy
+  category: []
 - image: "/images/ipfs-link-pootie-tang.png"
   project_url: https://ipfs.infura.io/ipfs/Qmdyb3gHpm1Q2mrniqGg3J6rUtoD6brf9ujvFAds1J7c3N
   category:
