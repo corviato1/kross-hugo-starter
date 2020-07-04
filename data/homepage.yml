@@ -39,7 +39,7 @@ skill:
     color: "#ffbcaa"
 experience:
   enable: true
-  title: Experience
+  title: Cryptographically secured public ledgers that I enjoy playing with
   item:
   - logo: "/images/btc.png"
     title: Bitcoin
