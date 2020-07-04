@@ -1,26 +1,5 @@
 ---
-item:
-- image: "/images/ipfs-link-dude-wheres-my-car.png"
-  project_url: "#https://ipfs.infura.io/ipfs/QmfLinecT5TkvAgxJxqeoJjGgJWb65sEX4ahY7JSDxoKAn"
-  category: []
-- image: "/images/ipfs-link-pootie-tang.png"
-  project_url: https://ipfs.infura.io/ipfs/Qmdyb3gHpm1Q2mrniqGg3J6rUtoD6brf9ujvFAds1J7c3N
-  category: []
-- image: "/images/ipfs-link-the-big-short.png"
-  project_url: https://ipfs.infura.io/ipfs/QmSxZzNF6Dt3jfS9Y2BXSjWBkhTpBfThaHMq5CEbnVzsoE
-  category: []
-- image: "/images/ipfs-link-mr-peabody-and-sherman.png"
-  project_url: https://ipfs.infura.io/ipfs/QmaF9tLZQrqbkfSum5FEnEBLyEMsi1xBY3g42tCXqQyMGy
-  category: []
-- image: "/images/ipfs-link-the-laundromat.png"
-  project_url: "#https://ipfs.infura.io/ipfs/QmRDV1JScorQwWxYooYuk4cTYU7sRAvguZHH3hGYJrRjJp"
-  category: []
-- image: "/images/ipfs-link-slc-punk.png"
-  project_url: https://ipfs.infura.io/ipfs/QmSyvK42wR417R5HCfEhgUZg67cGPuvfBeTeUVCexbLYwR
-  category: []
-- image: "/images/ipfs-link-the-raid.png"
-  project_url: "#https://ipfs.infura.io/ipfs/QmfLinecT5TkvAgxJxqeoJjGgJWb65sEX4ahY7JSDxoKAn"
-  category: []
+item: []
 clients_logo_slider:
   enable: false
   title: My Clients
